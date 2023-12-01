@@ -1,10 +1,9 @@
-### Advent Of Code 2022
+### Day 1: Calorie Counting
 
 ## Index
 1. [Home](../Readme.md)
 
-
-Language: rust
+[Problem](https://adventofcode.com/2022/day/1)
 
 #### Build
 `cargo build`
