@@ -1,5 +1,9 @@
 ### Advent Of Code 2022
 
+## Index
+1. [Home](../Readme.md)
+
+
 Language: rust
 
 #### Build
